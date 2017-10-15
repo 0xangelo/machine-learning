@@ -1,2 +1,2 @@
 # machine-learning
-Coursera course offered by Stanford's Andrew Ng
+Course offered by Stanford's Andrew Ng through Coursera.
